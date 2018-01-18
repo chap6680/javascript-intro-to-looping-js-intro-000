@@ -22,8 +22,9 @@ function forLoop(array) {
 }
 
 function whileLoop(n) {
-  for (let i = n; n>0; n--){
-
+  while (n > 0) {
+    console.log(--n)
   }
+
   return 'done'
- }
+}

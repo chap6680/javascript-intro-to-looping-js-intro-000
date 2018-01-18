@@ -23,6 +23,6 @@ function forLoop(array) {
 
 function whileLoop(n) {
   for (let i = n; n===0; n--){
-    
+
   }
  }
